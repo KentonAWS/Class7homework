@@ -1,0 +1,38 @@
+class 7 (12/23/25) - Tuesday
+week 16 (Armageddon prep): VPC Peering
+
+goal = Configure EC2s between 2 regions/accounts to communicate with each other
+
+Deliverables = screenshot of successful peering connection to an EC2 in your own account, and an EC2 in someone else's account. 
+
+Homework == repo of notes regarding the lesson, and watching up to and including section 27 of Maarek SAA Udemy
+
+Create VPC's in 2 different zones.
+
+Select or create security groups
+
+Create peering connection enter VPC id
+
+Send request
+
+Accept request in the other account
+
+Edit route 1
+
+Edit Route 2 0.0.0.0/0 Nat Gateway
+
+Edit Route 3 target peering connecton
+
+Edit route tables for each VPC where is it going
+
+
+
+ 
+
+
+
+
+
+
+
+ 
